@@ -440,3 +440,19 @@ Se o commit estiver com o problema, então ele deverá ser marcado como **ruim**
 Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	
 	git bisect reset
+
+#### Atualizar a branch de acordo com o repositório orignal forkeado
+
+	git remote add upstream https://github.com/usuario/projeto.git
+
+	git fetch upstream
+
+	git checkout master
+
+	git rebase upstream/master
+
+	git merge upstream/master
+
+	git push -f origin master
+
+
