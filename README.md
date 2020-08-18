@@ -436,7 +436,7 @@ Se o commit estiver com o problema, então ele deverá ser marcado como **ruim**
 
  	git bisect bad
  
-##### Finalizar a pesquisa binária
+###### Finalizar a pesquisa binária
 Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	
 	git bisect reset
