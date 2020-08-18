@@ -1,4 +1,4 @@
-def func(x):
+def func(y):
     return x + 1
 
 def test_answer():
