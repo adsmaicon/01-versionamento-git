@@ -441,6 +441,13 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	
 	git bisect reset
 
+##### Instalar commitizen
+Para instalar o commitizen, utilize o comando abaixo:
+	
+	npm install -g commitizen
+
+Origem para leitura:
+	
 #### Atualizar a branch de acordo com o repositório orignal forkeado
 
 	git remote add upstream https://github.com/usuario/projeto.git
@@ -454,5 +461,4 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	git merge upstream/master
 
 	git push -f origin master
-
 
