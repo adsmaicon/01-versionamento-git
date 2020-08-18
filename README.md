@@ -440,3 +440,13 @@ Se o commit estiver com o problema, então ele deverá ser marcado como **ruim**
 Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	
 	git bisect reset
+
+##### Instalar commitizen
+Para instalar o commitizen, utilize o comando abaixo:
+	
+	npm install -g commitizen
+
+Origem para leitura:
+	
+	https://github.com/commitizen/cz-cli
+
