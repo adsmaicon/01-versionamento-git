@@ -448,5 +448,17 @@ Para instalar o commitizen, utilize o comando abaixo:
 
 Origem para leitura:
 	
-	https://github.com/commitizen/cz-cli
+#### Atualizar a branch de acordo com o repositório orignal forkeado
+
+	git remote add upstream https://github.com/usuario/projeto.git
+
+	git fetch upstream
+
+	git checkout master
+
+	git rebase upstream/master
+
+	git merge upstream/master
+
+	git push -f origin master
 
