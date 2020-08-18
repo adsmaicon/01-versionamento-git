@@ -448,9 +448,9 @@ Para instalar o commitizen, utilize o comando abaixo:
 
 Origem para leitura:
 	
-#### Atualizar a branch de acordo com o repositório orignal forkeado
+#### Atualizar a branch de acordo com o repositório original forkeado
 
-	git remote add upstream https://github.com/usuario/projeto.git
+	git remote add upstream https://github.com/adsmaicon/01-versionamento-git.git
 
 	git fetch upstream
 
