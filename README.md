@@ -462,4 +462,3 @@ Origem para leitura:
 
 	git push -f origin master
 
-
