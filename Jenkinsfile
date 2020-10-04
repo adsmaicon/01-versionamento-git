@@ -4,7 +4,7 @@ pipeline {
         stage('build') {
             steps {
                 sh 'python3 --version'
-                sh 'python3 -m pip install -r requirements.txt'
+                sh 'virtualenv venv --distribute'
             }
         }
         stage('test') {
