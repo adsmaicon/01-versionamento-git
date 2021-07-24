@@ -6,4 +6,4 @@ def test_answer():
     
     
 def test_answer_1():
-    assert func(3) == 5
+    assert func(4) == 5
