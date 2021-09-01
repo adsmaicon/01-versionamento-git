@@ -1,5 +1,4 @@
 # GIT
-# Turma de testes da Positivo 2021
 ## Estados
 
 * Modificado (modified);
