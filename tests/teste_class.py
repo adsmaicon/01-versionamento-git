@@ -1,3 +1,4 @@
+"""Classe de testes"""
 import unittest
 
 class TestStringMethods(unittest.TestCase):
