@@ -464,3 +464,5 @@ Origem para leitura:
 #### POR QUE EU EXISTO?
 
 	rm -rf /banco/firebird/SUPERBOXNOVO.FDB = Assinar recisão
+  
+maicon
