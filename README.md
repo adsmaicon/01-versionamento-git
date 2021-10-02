@@ -1,3 +1,5 @@
+# MODIFICACAO FEITA POR
+* Joao de Araujo Junior
 # GIT EH SHOW
 ## Estados
 
@@ -466,3 +468,4 @@ Origem para leitura:
 	rm -rf /banco/firebird/SUPERBOXNOVO.FDB = Assinar recisão
   
 maicon
+duayne
