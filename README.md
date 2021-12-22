@@ -1,4 +1,4 @@
-# GIT EH SHOW
+# GIT
 ## Estados
 
 * Modificado (modified);
