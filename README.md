@@ -1,7 +1,5 @@
-# Fiz uma modificação aqui
-- > Seja bem vindo ao meu fork
+# Devops - Aula 3 - GIT
 
-# GIT
 ## Estados
 
 * Modificado (modified);
