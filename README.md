@@ -1,4 +1,5 @@
 # Devops - Aula 3 - GIT
+
 ## Estados
 
 * Modificado (modified);
